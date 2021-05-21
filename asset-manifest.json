@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stopwatch/static/css/main.3125441e.chunk.css",
-    "main.js": "/stopwatch/static/js/main.95cdf0a7.chunk.js",
-    "main.js.map": "/stopwatch/static/js/main.95cdf0a7.chunk.js.map",
+    "main.js": "/stopwatch/static/js/main.d0a27dfc.chunk.js",
+    "main.js.map": "/stopwatch/static/js/main.d0a27dfc.chunk.js.map",
     "runtime-main.js": "/stopwatch/static/js/runtime-main.db174219.js",
     "runtime-main.js.map": "/stopwatch/static/js/runtime-main.db174219.js.map",
     "static/js/2.9ab3085b.chunk.js": "/stopwatch/static/js/2.9ab3085b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db174219.js",
     "static/js/2.9ab3085b.chunk.js",
     "static/css/main.3125441e.chunk.css",
-    "static/js/main.95cdf0a7.chunk.js"
+    "static/js/main.d0a27dfc.chunk.js"
   ]
 }
