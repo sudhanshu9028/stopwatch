@@ -10,7 +10,7 @@ export const Stopwatch = (initialstate = 0) => {
     setIsPaused(true);
     ref.current = setInterval(() => {
       setTimer((timer) => timer + 1);
-    }, 1);
+    }, 10);
   };
   const pause = () => {
     clearInterval(ref.current);
@@ -20,7 +20,7 @@ export const Stopwatch = (initialstate = 0) => {
     setIsPaused(true);
     ref.current = setInterval(() => {
       setTimer((timer) => timer + 1);
-    }, 1);
+    }, 10);
   };
   const reset = () => {
     clearInterval(ref.current);
